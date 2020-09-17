@@ -1,5 +1,5 @@
 # CS50-Problem-set-3-plurality
-My solution to pset3 - Plurality - a program that runs a plurality election.
+My solution to pset3 - Plurality - a program that runs a plurality election where every voter gets one vote, and the candidate with the most votes wins.
 
 Here is the link to this problem set: https://cs50.harvard.edu/x/2020/psets/3/plurality/
 
